@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "HARSHU FF Tools",
-    "slug": "harshu-ff-tools",
+    "slug": "harshu-ff-tools-app",
     "version": "4.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
