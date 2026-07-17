@@ -168,12 +168,15 @@ export default function AdminScreen({ navigation }) {
         <View style={styles.infoBox}>
           <Text style={styles.infoTitle}>Admin Only</Text>
           <Text style={styles.infoText}>
-            • Password required for all admin actions{'
-'}
-            • Cloud config affects all users{'
-'}
-            • Local storage saves for offline{'
-'}
+            • Password required for all admin actions
+          </Text>
+          <Text style={styles.infoText}>
+            • Cloud config affects all users
+          </Text>
+          <Text style={styles.infoText}>
+            • Local storage saves for offline
+          </Text>
+          <Text style={styles.infoText}>
             • Default: {DEFAULT_API_BASE}
           </Text>
         </View>
